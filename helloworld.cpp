@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std; 
-
+using namespace std;
 
 int main(){
-	cout << "Hello World";
+	cout << "Welcome to ITHB Crash Course\n";
+	cout << "Test";
 }
